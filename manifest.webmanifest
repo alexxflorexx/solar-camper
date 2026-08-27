@@ -1,0 +1,8 @@
+{
+  "name": "Solar Camper Energía",
+  "short_name": "Solar Camper",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7fafc",
+  "theme_color": "#1f5f8b"
+}

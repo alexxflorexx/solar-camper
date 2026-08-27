@@ -1,0 +1,123 @@
+{
+  "site_id": "site-93c8921d7602",
+  "keyword": "solar camper energía aislada furgoneta",
+  "topic": "Solar Camper Energía",
+  "slug": "solar-camper-energia-aislada-furgoneta",
+  "directory": "solar-camper-energia-aislada-furgoneta__2026-08-27",
+  "version": 1,
+  "created_at": "2026-08-27T02:15:57+00:00",
+  "updated_at": "2026-08-27T02:54:21+00:00",
+  "exported_at": "2026-08-27T02:54:53+00:00",
+  "decision": "CREATE_SITE",
+  "cluster_id": "CLU-ccc7ec269c26",
+  "pages_count": 12,
+  "pages": [
+    "404.html",
+    "articulos/index.html",
+    "articulos/solar-camper-energia-aislada/index.html",
+    "categorias/cultivos/index.html",
+    "categorias/index.html",
+    "contacto/index.html",
+    "cookies/index.html",
+    "guia/index.html",
+    "index.html",
+    "privacidad/index.html",
+    "sobre-nosotros/index.html",
+    "terminos/index.html"
+  ],
+  "assets": [
+    "404.html",
+    "ads.txt",
+    "articulos/index.html",
+    "articulos/solar-camper-energia-aislada/index.html",
+    "categorias/cultivos/index.html",
+    "categorias/index.html",
+    "contacto/index.html",
+    "cookies/index.html",
+    "css/responsive.css",
+    "css/style.css",
+    "favicon.svg",
+    "guia/index.html",
+    "images/0b85ec7f784bfaf3-subject.jpg",
+    "images/3c12064190bb05d3-hero.jpg",
+    "images/hero.svg",
+    "index.html",
+    "js/main.js",
+    "manifest.webmanifest",
+    "privacidad/index.html",
+    "robots.txt",
+    "rss.xml",
+    "sitemap.xml",
+    "sobre-nosotros/index.html",
+    "terminos/index.html"
+  ],
+  "asset_hashes_sha256_16": {
+    "rss.xml": "fb60ffb4c10ef822",
+    "index.html": "c040027c537f5bdd",
+    "ads.txt": "61ed7ec7122f296c",
+    "404.html": "28312cfbc450196f",
+    "sitemap.xml": "473ed50a52174352",
+    "robots.txt": "b54c893d9e9c7076",
+    "manifest.webmanifest": "fe3f06d035ba2b5d",
+    "favicon.svg": "a53478486f446369",
+    "guia/index.html": "8ec1fe281f13c28f",
+    "css/responsive.css": "facf8382a0fc2d57",
+    "css/style.css": "c85ae8992250cef4",
+    "images/0b85ec7f784bfaf3-subject.jpg": "0b85ec7f784bfaf3",
+    "images/hero.svg": "525f30c2eb39e014",
+    "images/3c12064190bb05d3-hero.jpg": "3c12064190bb05d3",
+    "js/main.js": "38e8c817bf4a9b29",
+    "articulos/index.html": "95470c755cafab9a",
+    "contacto/index.html": "d04d4afd2bfb4410",
+    "sobre-nosotros/index.html": "b27eee80dced87e8",
+    "categorias/index.html": "ca6727b30b2d8b2f",
+    "terminos/index.html": "69343c9cfb53dde5",
+    "privacidad/index.html": "8ddd695dda92bdc1",
+    "cookies/index.html": "2026f56e7b01ffa1",
+    "categorias/cultivos/index.html": "9d12ba222100d42a",
+    "articulos/solar-camper-energia-aislada/index.html": "b8333c1bc6cdcc52"
+  },
+  "images": [
+    {
+      "file": "3c12064190bb05d3-hero.jpg",
+      "source": "https://live.staticflickr.com/8684/16245781464_d183fd5384_b.jpg",
+      "author": "kevin dooley",
+      "license": "CC BY 2.0",
+      "sha256": "3c12064190bb05d367b7cd28056082f4a27a9e57a89a690b481ae6cf74fba14b"
+    },
+    {
+      "file": "0b85ec7f784bfaf3-subject.jpg",
+      "source": "https://live.staticflickr.com/1556/23791566693_616402fe26_b.jpg",
+      "author": "kevin dooley",
+      "license": "CC BY 2.0",
+      "sha256": "0b85ec7f784bfaf3ec5f34bf378222e42e467e4d6d5025c91d0892621c998b85"
+    }
+  ],
+  "qa": {
+    "technical": "PASS/WARN (ver validator en build_report)",
+    "visual": "ver runs/visual-qa/site-93c8921d7602",
+    "editorial": "ver learning_log",
+    "quality_gate": "UNKNOWN",
+    "quality_score": null
+  },
+  "export_gate": {
+    "blockers": [],
+    "warnings": [
+      "gate_desconocido (web histórica)"
+    ]
+  },
+  "content_hash": "1ddba46c5b28a111db6147e0bc3943bc",
+  "generator": "Money Web Factory — local-first, sin secretos",
+  "http_check": {
+    "ok": true,
+    "results": {
+      "index.html": 200,
+      "sitemap.xml": 200,
+      "robots.txt": 200,
+      "css/style.css": 200,
+      "css/responsive.css": 200,
+      "images/3c12064190bb05d3-hero.jpg": 200,
+      "js/main.js": 200
+    }
+  }
+}
